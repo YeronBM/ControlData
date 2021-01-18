@@ -16,6 +16,7 @@ public class ControlData {
      */
     public static void main(String[] args) {
         System.out.println("Hola1");
+        System.out.println("hola2");
     }
     
 }
