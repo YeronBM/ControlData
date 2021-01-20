@@ -14,6 +14,7 @@ import java.util.Scanner;
 public class ControlData {
 
     /**
+     * Esto es para borrar
      * Comproba que un parámetro está dentro dun rango
      *
      * @param l1 Tipo int - límite inferior del rango de números
